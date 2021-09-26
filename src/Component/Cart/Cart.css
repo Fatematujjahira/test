@@ -1,0 +1,16 @@
+.cart-gap{
+    background-color: rgba(28, 26, 26, 0.501);
+    color: rgba(228, 185, 76, 0.864);
+    border: 2px solid rgb(53, 53, 53);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+.btn{
+    padding: 5px;
+
+}
+.btn:hover{
+    transition: 1s;
+}

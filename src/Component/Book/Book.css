@@ -1,0 +1,9 @@
+.card-img-top{
+    height: 310px;
+    padding: 50px;
+
+}
+.card{
+    background-color: rgb(234, 237, 231);
+    border: 3px solid black;
+}

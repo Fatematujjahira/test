@@ -1,0 +1,27 @@
+.logo{
+    height: 80px;
+}
+
+.header{
+    background-color: #1a1d1f;
+    color: rgb(216, 177, 77);
+}
+.header nav {
+    background-color: rgb(232, 232, 232);
+    line-height: 40px;
+  
+}
+.header nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: start;
+    
+}
+.header nav a:hover{
+    background-color: rgb(31, 29, 29);
+    color: blanchedalmond;
+    transition: 1s;
+}
